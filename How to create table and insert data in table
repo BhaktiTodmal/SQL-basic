@@ -1,11 +1,11 @@
 Syntax For Create Table:
 
-create table "tablename"  
+create table "Tablename"  
 ("column1" "data type",  
 "column2" "data type",  
 "column3" "data type",  
 ...  
-"columnN" "data type"); 
+"ColumnN" "data type"); 
 
 Example:
 
@@ -28,7 +28,7 @@ VALUES (value1, value2, value.....);
 
 Example
 INSERT INTO departments(department_id	department_name	location_id)
-VALUES('1',	'Administration',	'1700');
+VALUES('1','Administration','1700');
 
 
 
